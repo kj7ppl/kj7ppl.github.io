@@ -2,7 +2,7 @@
 layout: post
 title:  "Secure Voice Using AFSK Modulation"
 date:   2020-08-15 21:58:00 -0700
-categories: crypto experiment
+tags: crypto experiment
 permalink: /secure-voice/
 ---
 One of the things that finally prompted me to get an amateur radio license was
