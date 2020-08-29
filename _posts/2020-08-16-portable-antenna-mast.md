@@ -17,7 +17,7 @@ seems much improved.
 I took an old hitch ball mount and chopped the end off, leaving me with just a
 piece of square tubing. I then welded a 2 foot section of quarter inch thick, 2
 inch wide angle iron lengthwise to the tubing. To the interior of the angle
-iron I welded a section of 1 1/2 inch Schedule 40 black iron pipe to act as
+iron I welded a section of 1 1/4 inch Schedule 40 black iron pipe to act as
 a receiver for the antenna mast. I left the threading on the bottom of the pipe
 and extended it below the angle iron so I could thread a cap onto it. Normally
 the antenna mast runs all the way through the receiver and rests on the ground,
@@ -30,7 +30,7 @@ receiver without touching the ground.
 The mast sections are made of 1 inch schedule 40 black iron pipe. I bought 2
 10-foot sections of pipe, chopped the threads off both ends, then chopped the
 pipe in half for a total of 4 5-foot sections. I then took 1 foot sections of
-1 1/2 inch pipe, slipped them halfway onto the top of each mast section to act
+1 1/4 inch pipe, slipped them halfway onto the top of each mast section to act
 as a slip coupling, then welded the bottom of the coupling to the mast. Since
 the couplings were a little loose fitting over the mast sections, I drilled a
 few holes in the couplings and plug welded them to the mast to provide some
